@@ -1,0 +1,46 @@
+/* Start Of Extra Button Style */
+.mybtn-red:hover {
+    background-color: #dc3545;
+    border: none;
+
+}
+
+/* End Of Extra Button Style */
+
+
+
+/* Start Of Single Service Style */
+.single-service:hover {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175) !important
+}
+
+.single-service a {
+    color: rgba(12, 12, 12, 0.76);
+}
+
+.single-service a:hover {
+    color: rgb(224, 57, 93);
+}
+
+.single-service p {
+    font-size: .9rem;
+    color: #6c757d;
+}
+
+.single-service p:hover {
+    font-size: .9rem;
+    color: rgb(224, 57, 93);
+}
+
+/* End Of Single Service Style */
+
+/* Start Of Blog Post Image Style */
+.blog-post-img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.199) !important
+}
+
+
+
+
+

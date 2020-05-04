@@ -1,0 +1,29 @@
+{
+  "name": "robitech",
+  "authors": [
+    "rabiulislamr12 <rabiulislam.r12@github.com>"
+  ],
+  "description": "This is a simple website.it's a personal Website.",
+  "main": "index.html",
+  "keywords": [
+    "rabiul",
+    "rixet",
+    "rixetbd",
+    "robitech"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^2.4.0",
+    "font-awesome-5": "^5.13.0"
+  }
+}
